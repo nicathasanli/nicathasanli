@@ -3,6 +3,8 @@
 - 🌱 I’m currently learning software development
 - 💞️ I’m looking to collaborate on projects, my email : hesenlinicat2002@gmail.com
 - 📫 How to reach me Linkedin:https://www.linkedin.com/in/nicat-hasanli-864469216/
+
+-
 #Artificial Intelligence, Machine Learning, Data Science, Data Engineering
 #Embedded System Engineering, Internet Of Things, Hardware Engineering
 #Software Engineering, Full Stack Web Development, Mobile Development
