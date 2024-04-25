@@ -12,8 +12,8 @@
 <h3>🛠 Tech Stack</h3>
 
 - 💻 &nbsp;  JavaScript | Java | C++ | C |  Python | PHP |
-- 🌐 &nbsp; Full-Stack| NodeJs | Spring Boot | Spring | Django | PHP | React | HTML | CSS | JavaScript | Bootstrap | Sass | Tailwind 
-- 🛢 &nbsp; MySQL | Firebase | Postman
+- 🌐 &nbsp; Embedded Development | Machine Learning | Software Engineering | Data Structures and Algorithms
+- 🛢 &nbsp; Information Technology 
 - 🔧 &nbsp; Google Collab | Jupyter | Visual Studio code  | Git
 
 
