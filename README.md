@@ -6,7 +6,7 @@
 - 🔭 &nbsp; I’m currently learning Full Stack Web Development
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Graduate Computer Science Student; Computer Science, Physics and Mathematics.
-- 💼 &nbsp; Software Developer| Information Technology Specialist
+- 💼 &nbsp; Software Developer | Information Technology Specialist
 - 🌱 &nbsp; Enthusiast in Artificial Intelligence, Embedded Systems Engineering.
 
 <h3>🛠 Tech Stack</h3>
